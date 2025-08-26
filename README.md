@@ -31,11 +31,11 @@ Github: https://github.com/hackerby888/qubic-sc-docs
 
 The Qubic smart contract documentation strengthens the blockchain by making development easier, reducing errors, supporting scalability, and empowering more developers to contribute securely and efficiently.
 
-## Milestones and Deliverables [All Done]
+## Milestones and Deliverables [All Achieved]
 
 **Request 3B @ ($2.5k/B) for 3 milestones**
 
-### Milestone 1 – Core Documentation Framework [20%] [DONE]
+### Milestone 1 – Core Documentation Framework [20%] [Achieved]
 
 - Set up the documentation platform (Docusaurus).
 
@@ -43,7 +43,7 @@ The Qubic smart contract documentation strengthens the blockchain by making deve
 
 - Deliver initial draft covering environment setup and basic contract building.
 
-### Milestone 2 – Advanced Content & Examples [30%] [DONE]
+### Milestone 2 – Advanced Content & Examples [30%] [Achieved]
 
 - Add detailed tutorials with real smart contract examples.
 
@@ -51,7 +51,7 @@ The Qubic smart contract documentation strengthens the blockchain by making deve
 
 - Include developer-ready templates and code snippets.
 
-### Milestone 3 – Finalization & Community Release [50%] [DONE]
+### Milestone 3 – Finalization & Community Release [50%] [Achieved]
 
 - Review and refine content for clarity and accuracy.
 
@@ -88,18 +88,18 @@ Github: https://github.com/hackerby888/qubic-core-lite
 
 **Request 6B @ ($2.5k/B) for 3 milestones**
 
-### Milestone 1 – Core Setup & Local Testnet [20%] [DONE]
+### Milestone 1 – Core Setup & Local Testnet [20%] [Achieved]
 
 - Implement lightweight Qubic Core that runs directly on the operating system without UEFI.  
 - Provide local testnet functionality for developers.  
 
-### Milestone 2 – Developer Tools & Integration [40%] [DONE]
+### Milestone 2 – Developer Tools & Integration [40%] [Achieved]
 
 - Default configurations optimized for wallet integration and contract development.  
 - Simplified node setup process with one-click-start process.  
 - Documentation for setup and usage of the local testnet.   
 
-### Milestone 3 – Finalization & Public Release [40%] [DONE]
+### Milestone 3 – Finalization & Public Release [40%] [Achieved]
  
 - Optimized build for low-resource environments.  
 - Public release of the lightweight Qubic Core with community feedback loop enabled.  
