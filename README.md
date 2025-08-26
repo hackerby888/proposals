@@ -31,6 +31,10 @@ Github: https://github.com/hackerby888/qubic-sc-docs
 
 The Qubic smart contract documentation strengthens the blockchain by making development easier, reducing errors, supporting scalability, and empowering more developers to contribute securely and efficiently.
 
+## Business Model
+
+Free to use
+
 ## Milestones and Deliverables [All Achieved]
 
 **Request 3B @ ($2.5k/B) for 3 milestones**
@@ -82,7 +86,11 @@ Github: https://github.com/hackerby888/qubic-core-lite
 - **Stronger Ecosystem** – Encourages more contributors by making Qubic easier to access.  
 - **Higher Security** – Simplified local testing reduces mistakes before deployment.  
 - **Greater Adoption** – Lightweight requirements attract a broader range of developers and users.  
-- **Scalability** – Supports rapid prototyping, leading to more efficient and scalable solutions on the blockchain.  
+- **Scalability** – Supports rapid prototyping, leading to more efficient and scalable solutions on the blockchain.
+
+## Business Model
+
+Free to use
 
 ## Milestones and Deliverables [All Done]
 
