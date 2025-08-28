@@ -35,7 +35,7 @@ The Qubic smart contract documentation strengthens the blockchain by making deve
 
 Free to use
 
-## Milestones and Deliverables [All Achieved]
+## Milestones and Deliverables
 
 **Request 3B @ ($2.5k/B) for 3 milestones**
 
@@ -47,7 +47,7 @@ Free to use
 
 - Deliver initial draft covering environment setup and basic contract building.
 
-### Milestone 2 – Advanced Content & Examples [30%] [Achieved]
+### Milestone 2 – Advanced Content & Examples [50%] [Achieved]
 
 - Add detailed tutorials with real smart contract examples.
 
@@ -55,7 +55,7 @@ Free to use
 
 - Include developer-ready templates and code snippets.
 
-### Milestone 3 – Finalization & Community Release [50%] [Achieved]
+### Milestone 3 – Finalization & Community Release [30%] [Pending] [2 Weeks]
 
 - Review and refine content for clarity and accuracy.
 
@@ -92,7 +92,7 @@ Github: https://github.com/hackerby888/qubic-core-lite
 
 Free to use
 
-## Milestones and Deliverables [All Done]
+## Milestones and Deliverables
 
 **Request 6B @ ($2.5k/B) for 3 milestones**
 
@@ -101,13 +101,18 @@ Free to use
 - Implement lightweight Qubic Core that runs directly on the operating system without UEFI.  
 - Provide local testnet functionality for developers.  
 
-### Milestone 2 – Developer Tools & Integration [40%] [Achieved]
+### Milestone 2 – Developer Tools & Integration [30%] [Achieved]
 
 - Default configurations optimized for wallet integration and contract development.  
 - Simplified node setup process with one-click-start process.  
-- Documentation for setup and usage of the local testnet.   
+- Documentation for setup and usage of the local testnet.
 
-### Milestone 3 – Finalization & Public Release [40%] [Achieved]
+### Milestone 3 - Linux Porting [20%] [Pending] [1 Week]
+
+- Port the Lite Core to Linux for improved compatibility and flexibility
+- Implement command-line support to avoid rebuilding the binary for configuration changes
+
+### Milestone 4 – Finalization & Initial Public Release [30%] [1 Week]
  
 - Optimized build for low-resource environments.  
 - Public release of the lightweight Qubic Core with community feedback loop enabled.  
