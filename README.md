@@ -112,7 +112,7 @@ Free to use
 - Port the Lite Core to Linux for improved compatibility and flexibility
 - Implement command-line support to avoid rebuilding the binary for configuration changes
 
-### Milestone 4 – Finalization & Initial Public Release [30%] [1 Week]
+### Milestone 4 – Finalization & Initial Public Release [30%] [Pending] [1 Week]
  
 - Optimized build for low-resource environments.  
 - Public release of the lightweight Qubic Core with community feedback loop enabled.  
