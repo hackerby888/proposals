@@ -1,118 +1,119 @@
-# This proposals include 2 projects
+# Qubic Proposal
 
-1. [Qubic Smart Contract Documentation](#Qubic-Smart-Contract-Documentation)
-2. [Qubic Core Lite](#Qubic-Core-Lite)
+## Overview
 
-Project Lead: @feiyuiv
+This proposal covers **two complementary projects** that strengthen the Qubic ecosystem:
 
-# Qubic Smart Contract Documentation
+1. [Qubic Smart Contract Documentation](#qubic-smart-contract-documentation)  
+2. [Qubic Core Lite](#qubic-core-lite)  
 
-## Introduction
+Both projects are led by **@feiyuiv** and aim to lower the entry barrier for developers, improve ecosystem adoption, and provide essential tools and resources for the Qubic community.  
 
-A complete and in-depth documentation for Qubic smart contracts, covering everything you need to get started and succeed. It provides detailed guidance on the preparation process, environment setup, contract design, and development workflow, along with step-by-step instructions for building, deploying, and thoroughly testing smart contracts on the Qubic platform. This documentation serves as a one-stop resource for both beginners and experienced developers, ensuring you have all the tools, references, and best practices required to create reliable and efficient smart contracts within the Qubic ecosystem.
+**Total Funding Request:** **$25k**  
 
-Website: https://qubic-sc-docs.pages.dev/
+---
 
-Github: https://github.com/hackerby888/qubic-sc-docs
+## Qubic Smart Contract Documentation
 
-## Key Features
+### Introduction
 
-- End-to-End Guidance – Covers the full workflow from environment setup, preparation, and contract development to deployment and testing.
+A complete and in-depth documentation resource for Qubic smart contracts, covering everything from preparation and environment setup to contract design, development, deployment, and testing. It ensures developers at all levels can confidently build, deploy, and maintain secure smart contracts on Qubic.  
 
-- Developer-Friendly Examples – Includes practical code samples and ready-to-use templates for faster learning.
+- **Website:** [qubic-sc-docs.pages.dev](https://qubic-sc-docs.pages.dev/)  
+- **GitHub:** [github.com/hackerby888/qubic-sc-docs](https://github.com/hackerby888/qubic-sc-docs)  
 
-- Step-by-Step Tutorials – Clear walkthroughs for building, compiling, deploying, and interacting with smart contracts on Qubic.
+### Key Features
 
-- Best Practices & Patterns – Recommended approaches for writing secure, efficient, and maintainable smart contracts.
+- **End-to-End Guidance** – Full workflow from environment setup to deployment.  
+- **Practical Examples** – Ready-to-use templates and code samples.  
+- **Step-by-Step Tutorials** – Clear walkthroughs for building and testing contracts.  
+- **Best Practices** – Secure and efficient coding standards.  
+- **Comprehensive Reference** – In-depth explanations of APIs and system architecture.  
 
-- Comprehensive Reference – In-depth explanations of core concepts, APIs, and system architecture for advanced users.
+### Benefits to Qubic
 
-## How It Benefits Qubic
+- Reduces developer errors and speeds up onboarding.  
+- Empowers the community with knowledge and standard practices.  
+- Strengthens the ecosystem by lowering the learning curve.  
 
-The Qubic smart contract documentation strengthens the blockchain by making development easier, reducing errors, supporting scalability, and empowering more developers to contribute securely and efficiently.
+### Business Model
 
-## Business Model
+Free to use.  
 
-Free to use
+### Milestones & Deliverables
 
-## Milestones and Deliverables
+**Request: $5.5k**
 
-**Request 3B @ ($2.5k/B) for 3 milestones**
+1. **Core Documentation Framework [20%] – Achieved**  
+   - Platform setup (Docusaurus).  
+   - Initial structure/navigation.  
+   - Draft covering environment setup & basic contract building.  
 
-### Milestone 1 – Core Documentation Framework [20%] [Achieved]
+2. **Advanced Content & Examples [50%] – Achieved**  
+   - Real contract examples, templates, and debugging methods.  
+   - Testing frameworks and best practices.  
 
-- Set up the documentation platform (Docusaurus).
+3. **Finalization & Community Release [30%] – Pending (2 Weeks)**  
+   - Refined content, FAQs, troubleshooting, and integration with Qubic tools.  
+   - Public launch with community feedback.  
 
-- Create structure/navigation (Introduction, Setup, Development, Testing, Deployment).
+---
 
-- Deliver initial draft covering environment setup and basic contract building.
+## Qubic Core Lite
 
-### Milestone 2 – Advanced Content & Examples [50%] [Achieved]
+### Introduction
 
-- Add detailed tutorials with real smart contract examples.
+A lightweight version of Qubic Core designed to run directly on the operating system, providing developers with a **simple, cost-free local testnet**. This eliminates the need for a UEFI environment and reduces setup complexity.  
 
-- Document testing frameworks, debugging methods, and best practices.
+- **GitHub:** [github.com/hackerby888/qubic-core-lite](https://github.com/hackerby888/qubic-core-lite)  
 
-- Include developer-ready templates and code snippets.
+### Key Features
 
-### Milestone 3 – Finalization & Community Release [30%] [Pending] [2 Weeks]
+- **Local Testnet** – Run Qubic directly on OS.  
+- **Lightweight & Efficient** – Low system requirements.  
+- **Simplified Setup** – One-click start.  
+- **Developer-Friendly Defaults** – Optimized for contract development.  
+- **Rapid Prototyping** – Build and test quickly.  
+- **Broad Accessibility** – Lower barrier for adoption.  
 
-- Review and refine content for clarity and accuracy.
+### Benefits to Qubic
 
-- Add FAQs, troubleshooting, and integration with Qubic tools.
+- Accelerates contract development and testing.  
+- Expands contributor base by easing access.  
+- Enhances security through pre-deployment testing.  
+- Encourages adoption through lightweight requirements.  
+- Supports scalability by enabling rapid prototyping.  
 
-- Public launch of the docs with continuous feedback loop from community.
+### Business Model
 
-# Qubic Core Lite
+Free to use.  
 
-## Introduction
+### Milestones & Deliverables
 
-The lightweight version of Qubic Core, designed to run directly on the operating system without requiring a UEFI environment. Its goal is to provide developers with a simple, easy-to-build local testnet, eliminating the need for complex and costly setup.
+**Request: $19.5k**
 
-Github: https://github.com/hackerby888/qubic-core-lite
+1. **Core Setup & Local Testnet [20%] – Achieved**  
+   - Lightweight Core running directly on OS.  
+   - Local testnet support.  
 
-## Key Features
+2. **Developer Tools & Integration [30%] – Achieved**  
+   - Default wallet/contract configurations.  
+   - Simplified node setup.  
+   - Setup & usage documentation.  
 
-- **Local Testnet Support** – Run a Qubic testnet directly on your operating system without additional layers or dependencies.  
-- **Lightweight & Efficient** – Requires minimal system resources, making it accessible for developers on most machines.  
-- **Simplified Setup** – Removes the complexity of configuring a full Qubic node, enabling faster development and testing.  
-- **Developer-Friendly Defaults** – Ships with default configurations optimized for wallet integration and smart contract development.  
-- **Rapid Prototyping** – Ideal for experimenting, building, and testing new ideas quickly before deploying on the main network.  
-- **Accessible for All** – Lowers the entry barrier, encouraging more developers to explore and contribute to the Qubic ecosystem.  
+3. **Linux Porting [20%] – Pending (1 Week)**  
+   - Port Lite Core to Linux.  
+   - Command-line support for flexible configuration.  
 
-## How It Benefits Qubic
+4. **Finalization & Public Release [30%] – Pending (1 Week)**  
+   - Optimized build for low-resource environments.  
+   - Public release with community feedback.  
 
-- **Faster Development** – Lowers setup barriers so developers can build and test contracts quickly.  
-- **Stronger Ecosystem** – Encourages more contributors by making Qubic easier to access.  
-- **Higher Security** – Simplified local testing reduces mistakes before deployment.  
-- **Greater Adoption** – Lightweight requirements attract a broader range of developers and users.  
-- **Scalability** – Supports rapid prototyping, leading to more efficient and scalable solutions on the blockchain.
+---
 
-## Business Model
+## Consolidated Funding Request
 
-Free to use
+- **Qubic Smart Contract Documentation:** $5.5k
+- **Qubic Core Lite:** $19.5k
 
-## Milestones and Deliverables
-
-**Request 6B @ ($2.5k/B) for 3 milestones**
-
-### Milestone 1 – Core Setup & Local Testnet [20%] [Achieved]
-
-- Implement lightweight Qubic Core that runs directly on the operating system without UEFI.  
-- Provide local testnet functionality for developers.  
-
-### Milestone 2 – Developer Tools & Integration [30%] [Achieved]
-
-- Default configurations optimized for wallet integration and contract development.  
-- Simplified node setup process with one-click-start process.  
-- Documentation for setup and usage of the local testnet.
-
-### Milestone 3 - Linux Porting [20%] [Pending] [1 Week]
-
-- Port the Lite Core to Linux for improved compatibility and flexibility
-- Implement command-line support to avoid rebuilding the binary for configuration changes
-
-### Milestone 4 – Finalization & Initial Public Release [30%] [Pending] [1 Week]
- 
-- Optimized build for low-resource environments.  
-- Public release of the lightweight Qubic Core with community feedback loop enabled.  
+**Total Request: $25k**  
